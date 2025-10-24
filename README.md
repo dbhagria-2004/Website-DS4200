@@ -1,5 +1,7 @@
 # DS 4200 Visualization Website
 
+LINK: https://dbhagria-2004.github.io/Website-DS4200/index.html
+
 This website was created as part of **DS 4200: Information Presentation and Visualization** at **Northeastern University**, taught by **Professor Xiaoyi Yang**.
 
 ##  Project Goal
